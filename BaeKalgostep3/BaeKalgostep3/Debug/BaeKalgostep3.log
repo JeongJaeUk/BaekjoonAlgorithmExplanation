@@ -1,0 +1,4 @@
+﻿  step3_11.cpp
+c:\users\skstk\documents\visual studio 2017\projects\baekalgostep3\baekalgostep3\step3_11.cpp(10): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  BaeKalgostep3.vcxproj -> C:\Users\skstk\Documents\Visual Studio 2017\Projects\BaeKalgostep3\Debug\BaeKalgostep3.exe
+  BaeKalgostep3.vcxproj -> C:\Users\skstk\Documents\Visual Studio 2017\Projects\BaeKalgostep3\Debug\BaeKalgostep3.pdb (Partial PDB)
